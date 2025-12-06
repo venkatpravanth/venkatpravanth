@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [Personal Fitness Tracker – Streamlit + Machine Learning](https://github.com/venkatpravanth/Personal-Fitness-Tracker.git)
 
-- 🌱 I’m currently learning **Python Full-Stack Development , MySQL , Power BI (Dashboards, DAX, Power Query) , Machine Learning basics (scikit-learn) , HTML, CSS & JavaScript**
-
-- 👯 I’m looking to collaborate on **Retail Sales Dashboard**
+- 🌱 I’m currently learning **Python Full-Stack Development , MySQL , Power BI (Dashboards, DAX, Power Query) , Machine Learning basics , HTML, CSS & JavaScript**
 
 - 🤝 I’m looking for help with **Building a Full-Stack Version of my Fitness Tracker (Backend + Database Integration)**
 
@@ -21,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/venkata pravanth koppana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata pravanth koppana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/venkata-pravanth-koppana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata-pravanth-koppana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatpravanth&show_icons=true&locale=en&layout=compact" alt="venkatpravanth" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatpravanth&show_icons=true&locale=en" alt="venkatpravanth" /></p>
+
